@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?datasetId=54339&sortBy=voteCount&searchQuery=pytorch
